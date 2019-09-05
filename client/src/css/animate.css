@@ -1,0 +1,81 @@
+.animate-Y{
+    transform: translateY(-200px);
+    animation: animate 2s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animateY{
+    transform: translateY(200px);
+    animation: animate 2s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animate-X{
+    transform: translateX(200px);
+    animation: animate 2s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animateX{
+    transform: translateX(-500px);
+    animation: animate 2s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animate-bike{
+    transform: translateY(-10px);
+    animation: animate 2.5s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animate-bike-X{
+    transform: translateX(-10px);
+    animation: animate 2.5s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animate-bike-Y{
+    transform: translateX(100px);
+    animation: animate 2.5s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animate-bike-h{
+    transform: translateY(30px);
+    animation: animate 2.5s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
+.animate-bike-z{
+    transform: translateX(30px);
+    animation: animate 2.5s forwards ease-in;
+}
+@keyframes animate{
+    to{
+        transform: translateY(0);
+    }
+}
